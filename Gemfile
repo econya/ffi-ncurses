@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-source :rubygems
+source 'https://rubygems.org'
 
 gem "ffi"
 gem "ffi-locale"
